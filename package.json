@@ -1,0 +1,14 @@
+{
+  "name": "handling_menu_bars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.1"
+  }
+}
